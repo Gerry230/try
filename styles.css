@@ -1,0 +1,88 @@
+body {
+    color: darkgoldenrod;
+    margin: 0;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: chocolate;
+    font-size: 6rem;
+    margin: 50px auto 0 auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: rgb(255, 175, 146);
+    font-size: 4rem;
+    margin: 50px auto 0 auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    color: chocolate;
+    font-size: 3rem;
+    margin: 50px auto 0 auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.top {
+    background-color: cornflowerblue;
+    position: relative;
+    padding-top: 100px;
+}
+
+.div1 {
+    background-color: blanchedalmond;
+
+
+
+}
+
+.bottom {
+    background-color: lightblue;
+    padding: 50px 0 20 px;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.contact-messagr{
+    width: 40%;
+    margin:40ox auto 60px
+}
+.btn:hover{
+    background: #30e3cb;
+background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+text-decoration: none;
+}
+.copyright{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.footer-link{
+    color: rgb(244, 116, 69);
+    font-family:Georgia, 'Times New Roman', Times, serif
+    }
